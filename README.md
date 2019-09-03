@@ -12,27 +12,27 @@ Original image:
 
 Release version:
 
-<code>
-make clean<br>
-make<br>
-./Bin/Test Resource/Image/RGBImage.jpg<br>
-</code>
+```bash
+make clean
+make
+./Bin/Test Resource/Image/RGBImage.jpg
+```
 
 Debug Version:
 
-<code>
-make clean<br>
-make debug<br>
-./Bin/TestDebug Resource/Image/RGBImage.jpg<br>
-</code>
+```bash
+make clean
+make debug
+./Bin/TestDebug Resource/Image/RGBImage.jpg
+```
 
 ### Output
 
-<code>
-Program start.<br>
-Algorithm duration: 100 ms<br>
-Program end.<br>
-</code>
+```bash
+Program start.
+Algorithm duration: 100 ms
+Program end.
+```
 
 Images generated:
 
