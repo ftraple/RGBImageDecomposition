@@ -1,4 +1,4 @@
-# RGB Decomposition image
+# RGB Image Decomposition Algorithm
 
 ### Objective
 
@@ -36,9 +36,9 @@ Program end.
 
 Images generated:
 
-![R Image](Resource/Image/RChannel.jpg)
-![G Image](Resource/Image/GChannel.jpg)
-![B Image](Resource/Image/BChannel.jpg)
+![Red Image](Resource/Image/RedChannel.jpg)
+![Green Image](Resource/Image/GreenChannel.jpg)
+![Blue Image](Resource/Image/BlueChannel.jpg)
 
 
 
